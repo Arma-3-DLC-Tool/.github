@@ -8,7 +8,7 @@
 ## 🔗 Latest Release of Arma 3 DLC Unlocker
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Arma-3-DLC-Tool/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
